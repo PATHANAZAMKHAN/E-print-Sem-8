@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------
+Products
+--------------------------------------------------------------------------------------
+Custom Mugs------>Vista print
+Wedding Invitations---->Vistaprint
+Greeting Cards ------> Shutterfly
+Birthday Invitation ----->zazzle
+Business Cards ------>Canva
+Posters ------>Canva
+Stickers ----->Canva
+Mobile covers -----> Shutterfly
+
+--------------------------------------------------------------------------------------
+Datadictionary elements
+--------------------------------------------------------------------------------------
+field name, data type, field length and validation rules.
