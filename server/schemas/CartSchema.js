@@ -7,7 +7,7 @@ const cartSchema = new Schema({
         ref:'users'
     },
 
-    vendorproduct:{
+    vendorProduct:{
         type:Schema.Types.ObjectId,
         ref:'vendorproducts'
     },

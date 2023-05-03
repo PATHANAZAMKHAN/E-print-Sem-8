@@ -6,6 +6,7 @@ const stateSchema = new Schema({
         type:String,
         required:true,
         unique:true,
+        background:true
     },
     country:{
         type:Schema.Types.ObjectId,

@@ -6,7 +6,7 @@ const productSchema = new Schema({
         type:String,
         required:true
     },
-    catergoryId:{
+    categoryId:{
         type:Schema.Types.ObjectId,
         ref:'category'
     }

@@ -4,15 +4,16 @@ const api = require('../controllers/CommonController');
 const schema = require('../schemas/VendorProductImagesSchema');
 
 router.get('/get',(req,res)=>{
-    api.get(req,res,schema)
+    api.getAllpro(req,res,schema)
 });
 
 router.get('/get/:id', (req,res)=>{
-    api.getById(req,res,schema)
+    api.getAllproById(req,res,schema)
 })
 
-router.post('/add',(req,res)=>{
-    api.add(req,res,schema)
+
+router.post('/upload',(req,res)=>{
+    api.imageUpload(req,res,schema)
 });
 
 router.delete('/del/:id', (req,res)=>{

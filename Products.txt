@@ -1,14 +1,26 @@
 --------------------------------------------------------------------------------------
 Products
 --------------------------------------------------------------------------------------
-Custom Mugs------>Vista print
-Wedding Invitations---->Vistaprint
-Greeting Cards ------> Shutterfly
-Birthday Invitation ----->zazzle
-Business Cards ------>Canva
-Posters ------>Canva
-Stickers ----->Canva
-Mobile covers -----> Shutterfly
+
+1) Photo books: Customers can create customized photo books, with a variety of layouts, backgrounds, and covers to choose from.
+
+2) Wall art: The website could offer various options for wall art, such as canvas prints, metal prints, framed prints, and posters.
+
+3) Home decor: This category could include items like personalized pillows, blankets, and other home accessories.
+
+4) Cards and stationery: Customers could design and order custom cards for various occasions, such as birthdays, weddings, and holidays, as well as personalized stationery like note cards and address labels.
+
+5) Photo gifts: This category could include a range of products, such as mugs, keychains, phone cases, and puzzles, all featuring personalized photos.
+
+6) Calendars: Customers could design and order custom calendars, with a range of templates to choose from.
+
+7) Photo printing: The website could offer high-quality photo printing services, with options for standard prints, enlargements, and photo gifts.
+
+8) Gifts for special occasions: Customers could browse gift options for specific occasions, such as Mother's Day, Father's Day, Valentine's Day, and Christmas.
+
+9) Scrapbooks: The website could offer a range of options for creating custom scrapbooks, including pre-designed layouts and tools for adding embellishments.
+
+10) Photo storage and organization: The website could offer cloud storage options for customers to store and organize their digital photos, as well as tools for organizing printed photos.
 
 --------------------------------------------------------------------------------------
 Datadictionary elements

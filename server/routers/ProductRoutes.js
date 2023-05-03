@@ -11,6 +11,10 @@ router.get('/get/:id', (req,res)=>{
     api.getById(req,res,schema)
 });
 
+router.get('/get/:name', (req,res)=>{
+    api.getRecordByName(req,res,schema)
+})
+
 router.post('/add', (req,res)=>{
     api.add(req,res,schema)
 });

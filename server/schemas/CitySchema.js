@@ -5,7 +5,8 @@ const citySchema = new Schema({
     name:{
         type:String,
         required:true,
-        unique:true
+        unique:true,
+        background:true
     },
     state:{
         type:Schema.Types.ObjectId,

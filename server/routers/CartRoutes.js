@@ -4,7 +4,7 @@ const api = require('../controllers/CommonController');
 const schema = require('../schemas/CartSchema')
 
 router.get('/get',(req,res)=>{
-    api.get(req,res,schema)
+    api.getAllcat(req,res,schema)
 });
 
 router.get('/get/:id',(req,res)=>{
@@ -15,11 +15,11 @@ router.post('/add',(req,res)=>{
     api.add(req,res,schema)
 });
 
-router.put('/del/:cartId', (req,res)=>{
+router.put('/up/:id', (req,res)=>{
     api.updateById(req,res,schema)
 });
 
-router.delete('/add/:cartId', (req,res)=>{
+router.delete('/del/:id', (req,res)=>{
     api.deleteById(req,res,schema)
 });
 

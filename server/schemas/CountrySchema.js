@@ -5,7 +5,8 @@ const CountrySchema = new Schema({
   name: {
     type: String,
     required: true,
-    unique: true
+    unique: true,
+    background:true
   },
 },{
     collection:'countries'

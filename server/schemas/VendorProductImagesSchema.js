@@ -8,7 +8,7 @@ const vendorProductImage = new Schema({
     },
     vendor:{
         type:Schema.Types.ObjectId,
-        ref:'vendordetails'
+        ref:'users'
     },
     imageUrl:{
         type:String
