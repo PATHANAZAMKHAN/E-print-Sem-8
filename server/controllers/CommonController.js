@@ -425,11 +425,12 @@ function imageUpload(req, res, schema) {
         error: err,
       });
     } else {
+      console.log(req.file)
       const basePath =
         "C:\\Mislaneous\\Web Docs\\Web Development Practice\\E-print\\client\\public\\";
       const absolutePath = path.join(
         "C:\\Mislaneous\\Web Docs\\Web Development Practice\\E-print\\client\\public\\Images\\" +
-          req.file.originalname
+          req.file.originalname || req.file.filename
       );
       const p = path.relative(basePath, absolutePath);
       console.log(p);
